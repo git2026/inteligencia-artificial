@@ -1,4 +1,4 @@
-# Detecção de Fake News
+# Deteção de Fake News
 
 Este repositório contém um script em Python que treina e avalia diferentes algoritmos de classificação (Regressão Logística, SVM, Naive Bayes e Floresta Aleatória) para detecção de fake news em inglês.
 
