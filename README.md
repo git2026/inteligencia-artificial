@@ -33,19 +33,17 @@ python Codigo_AI.py
 
 ```
 inteligencia-artificial/
-├── Codigo_AI.py              # Script principal com algoritmos de ML
-├── dataset/                  # Conjunto de dados para treino e teste
-│   ├── train.tsv            # Dados de treino
+├── Codigo_AI.py             # Script principal com algoritmos de ML
+├── dataset/                 # Conjunto de dados para treino e teste
+│   ├── train.tsv            # Dados de treino (Demasiado Grande para estar hospedado no GitHub)
 │   ├── test.tsv             # Dados de teste
 │   └── validation.tsv       # Dados de validação
 ├── docs/                    # Documentação do projeto
 │   ├── Proposta AI.docx     # Proposta inicial do projeto
 │   ├── Relatório de AI.docx # Relatório final
 │   └── Video_AI.mkv         # Vídeo demonstrativo
-└── README.md               # Este ficheiro
+└── README.md
 ```
 
 ## Licença
 GNU v3.0
-
-
